@@ -1,0 +1,14 @@
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\bin\Debug\Living_batery_game.exe.config
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\bin\Debug\Living_batery_game.exe
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\bin\Debug\Living_batery_game.pdb
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\obj\Debug\Living_batery_game.csproj.AssemblyReference.cache
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\obj\Debug\Living_batery_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\obj\Debug\Living_batery_game.startmenu.resources
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\obj\Debug\Living_batery_game.Properties.Resources.resources
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\obj\Debug\Living_batery_game.csproj.GenerateResource.cache
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\obj\Debug\Living_batery_game.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\obj\Debug\Living_batery_game.exe
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\obj\Debug\Living_batery_game.pdb
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\obj\Debug\Living_batery_game.Level1.resources
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\obj\Debug\Living_batery_game.Level2.resources
+C:\Users\tomas\Mygames\Projekty_Windows_Forms\Living_batery_game\Living_batery_game\obj\Debug\Living_batery_game.Ovladani.resources
